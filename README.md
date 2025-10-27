@@ -18,12 +18,12 @@ Un renderizador de software 3D implementado en Rust que carga y renderiza modelo
 - **minifb** - Creación de ventanas y manejo de framebuffer
 - **tobj** - Cargador de archivos OBJ
 
-## 📋 Requisitos
+## Requisitos
 
 - Rust 1.70 o superior
 - Archivo `nave.obj` en la carpeta `assets/`
 
-## ⚡ Instalación y Ejecución
+## Instalación y Ejecución
 ```bash
 # Clonar el repositorio
 git clone https://github.com/Albu231311/Modelo_nave.git
