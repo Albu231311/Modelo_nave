@@ -110,8 +110,9 @@ for triangle_idx in (0..indices.len()).step_by(3) {
 
 ## Capturas
 <img width="536" height="288" alt="nave2" src="https://github.com/user-attachments/assets/6702678a-9f49-46c0-9107-2449cda08f28" />
-<img width="479" height="404" alt="nave3" src="https://github.com/user-attachments/assets/e675634b-f8a3-4dd2-a5f7-469acb4d5039" />
-![nave4](https://github.com/user-attachments/assets/a6fd3bc0-5e22-4dcf-8e4a-9af17f046382)
+<img width="536" height="288" alt="nave3" src="https://github.com/user-attachments/assets/e675634b-f8a3-4dd2-a5f7-469acb4d5039" />
+<img width="536" height="288" alt="image" src="https://github.com/user-attachments/assets/510c3f06-6358-4299-b56e-5e28de05274c" />
+
 
 
 
